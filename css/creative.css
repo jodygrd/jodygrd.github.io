@@ -42,6 +42,11 @@ p {
   line-height: 1.5;
   margin-bottom: 20px;
 }
+.justify {
+  font-size: 20px;
+  text-align: justify;
+  font-family: 'Raleway', sans-serif;
+}
 .bg-primary {
   background-color: #5963b2;
 }
@@ -415,3 +420,7 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #222222;
 }
+iframe {
+  width: 100%;
+}
+
